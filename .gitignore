@@ -1,0 +1,11 @@
+# Ігнорувати ВСЕ в корені
+/*
+
+# Але не ігнорувати сам .gitignore
+!.gitignore
+
+# Розблокувати папку data і конкретний файл menu.json
+!/data/
+!/data/menu.json
+!/data/result.json
+

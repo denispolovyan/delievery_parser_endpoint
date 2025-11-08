@@ -1,0 +1,452 @@
+[
+    {
+        "name": "БІГ МАК МЕНЮ",
+        "price": 263,
+        "price_original": 214.00,
+        "id": 2
+    },
+    {
+        "name": "БІГ ТЕЙСТІ СИНГЛ МЕНЮ",
+        "price": 309,
+        "price_original": 258.00,
+        "id": 3
+    },
+    {
+        "name": "ДАБЛ БІГ ТЕЙСТІ МЕНЮ",
+        "price": 400,
+        "price_original": 329.00,
+        "id": 5
+    },
+    {
+        "name": "ДАБЛ РОЯЛ ЧІЗБУРГЕР МЕНЮ",
+        "price": 373,
+        "price_original": 297.00,
+        "id": 6
+    },
+    {
+        "name": "ДАБЛ ЧІЗБУРГЕР МЕНЮ",
+        "price": 238,
+        "price_original": 192.00,
+        "id": 7
+    },
+    {
+        "name": "МАККРІСПІ ДЕЛЮКС МЕНЮ",
+        "price": 316,
+        "price_original": 251.00,
+        "id": 8
+    },
+    {
+        "name": "МАККРІСПІ МЕНЮ",
+        "price": 282,
+        "price_original": 224.00,
+        "id": 9
+    },
+    {
+        "name": "МАКЧІКЕН МЕНЮ",
+        "price": 238,
+        "price_original": 192.00,
+        "id": 10
+    },
+    {
+        "name": "РОЯЛ ЧІЗБУРГЕР МЕНЮ",
+        "price": 284,
+        "price_original": 232.00,
+        "id": 11
+    },
+    {
+        "name": "ФІЛЕ-О-ФІШ МЕНЮ",
+        "price": 233,
+        "price_original": 189.00,
+        "id": 13
+    },
+    {
+        "name": "ЧІКЕН МАКНАГЕТС 6ШТ МЕНЮ",
+        "price": 217,
+        "price_original": 178.00,
+        "id": 14
+    },
+    {
+        "name": "ЧІКЕН МАКНАГЕТС 9ШТ МЕНЮ",
+        "price": 263,
+        "price_original": 216.00,
+        "id": 15
+    },
+    {
+        "name": "КАРТОПЛЯ ФРІ ВЕЛИКА",
+        "price": 95,
+        "price_original": 75.00,
+        "id": 16
+    },
+    {
+        "name": "Картопля Фрі з сирним соусом та беконом",
+        "price": 124,
+        "price_original": 102.00,
+        "id": 18
+    },
+    {
+        "name": "КАРТОПЛЯ ФРІ МАЛА",
+        "price": 57,
+        "price_original": 50.00,
+        "id": 19
+    },
+    {
+        "name": "КАРТОПЛЯ ФРІ СЕРЕДНЯ",
+        "price": 79,
+        "price_original": 62.00,
+        "id": 20
+    },
+    {
+        "name": "КАРТОПЛЯНІ ДІПИ",
+        "price": 110,
+        "price_original": 85.00,
+        "id": 21
+    },
+    {
+        "name": "АМЕРИКАНО ВЕЛИКЕ 230МЛ",
+        "price": 72,
+        "price_original": 60.00,
+        "id": 23
+    },
+    {
+        "name": "АМЕРИКАНО З МОЛОКОМ ВЕЛИКЕ 275МЛ",
+        "price": 79,
+        "price_original": 65.00,
+        "id": 24
+    },
+    {
+        "name": "БІГ МАК",
+        "price": 157,
+        "price_original": 129.00,
+        "id": 27
+    },
+    {
+        "name": "БІГ ТЕЙСТІ СИНГЛ",
+        "price": 212,
+        "price_original": 175.00,
+        "id": 28
+    },
+    {
+        "name": "БІГ ЧІКЕН САЛАТ",
+        "price": 241,
+        "price_original": 210.00,
+        "id": 29
+    },
+    {
+        "name": "ВОДА ГАЗОВАНА ВЕЛИКА 500МЛ",
+        "price": 31,
+        "price_original": 25.00,
+        "id": 31
+    },
+    {
+        "name": "ВОДА НЕГАЗОВАНА ВЕЛИКА 500МЛ",
+        "price": 31,
+        "price_original": 25.00,
+        "id": 32
+    },
+    {
+        "name": "ВІВСЯНА КАША",
+        "price": 46,
+        "price_original": 38.00,
+        "id": 33
+    },
+    {
+        "name": "ГАМБУРГЕР",
+        "price": 70,
+        "price_original": 58.00,
+        "id": 34
+    },
+    {
+        "name": "ДАБЛ БІГ ТЕЙСТІ",
+        "price": 304,
+        "price_original": 247.00,
+        "id": 35
+    },
+    {
+        "name": "ДАБЛ РОЯЛ ЧІЗБУРГЕР",
+        "price": 274,
+        "price_original": 219.00,
+        "id": 36
+    },
+    {
+        "name": "ДАБЛ ЧІЗБУРГЕР",
+        "price": 133,
+        "price_original": 110.00,
+        "id": 37
+    },
+    {
+        "name": "КАКАО ВЕЛИКЕ 310МЛ",
+        "price": 79,
+        "price_original": 65.00,
+        "id": 39
+    },
+    {
+        "name": "КАПУЧИНО ВЕЛИКЕ 245МЛ",
+        "price": 79,
+        "price_original": 65.00,
+        "id": 40
+    },
+    {
+        "name": "КОКА-КОЛА ВЕЛИКА 500МЛ",
+        "price": 66,
+        "price_original": 55.00,
+        "id": 42
+    },
+    {
+        "name": "КУРЯЧІ СТРІПСИ 12ШТ",
+        "price": 339,
+        "price_original": 275.00,
+        "id": 43
+    },
+    {
+        "name": "КУРЯЧІ СТРІПСИ 3ШТ",
+        "price": 105,
+        "price_original": 89.00,
+        "id": 44
+    },
+    {
+        "name": "КУРЯЧІ СТРІПСИ 6ШТ",
+        "price": 189,
+        "price_original": 150.00,
+        "id": 45
+    },
+    {
+        "name": "ЛАТЕ ВЕЛИКЕ 295МЛ",
+        "price": 79,
+        "price_original": 65.00,
+        "id": 46
+    },
+    {
+        "name": "МАККРІСПІ",
+        "price": 179,
+        "price_original": 145.00,
+        "id": 48
+    },
+    {
+        "name": "МАККРІСПІ ДЕЛЮКС",
+        "price": 217,
+        "price_original": 175.00,
+        "id": 49
+    },
+    {
+        "name": "МАКПИРІГ ВИШНЕВИЙ",
+        "price": 56,
+        "price_original": 45.00,
+        "id": 50
+    },
+    {
+        "name": "МАКФЛУРІ КІТ КАТ КАРАМЕЛЬ",
+        "price": 102,
+        "price_original": 79.00,
+        "id": 55
+    },
+    {
+        "name": "МАКФЛУРІ КІТ КАТ ПОЛУНИЦЯ",
+        "price": 102,
+        "price_original": 79.00,
+        "id": 56
+    },
+    {
+        "name": "МАКЧІКЕН",
+        "price": 133,
+        "price_original": 109.00,
+        "id": 59
+    },
+    {
+        "name": "МОККО 295МЛ",
+        "price": 85,
+        "price_original": 70.00,
+        "id": 65
+    },
+    {
+        "name": "РОЯЛ ЧІЗБУРГЕР",
+        "price": 180,
+        "price_original": 147.00,
+        "id": 67
+    },
+    {
+        "name": "СОУС БАРБЕКЮ",
+        "price": 21,
+        "price_original": 17.00,
+        "id": 69
+    },
+    {
+        "name": "СОУС ГІРЧИЧНИЙ",
+        "price": 21,
+        "price_original": 17.00,
+        "id": 70
+    },
+    {
+        "name": "СОУС ЖУРАВЛИНОВИЙ",
+        "price": 21,
+        "price_original": 17.00,
+        "id": 71
+    },
+    {
+        "name": "СОУС КАРІ",
+        "price": 21,
+        "price_original": 17.00,
+        "id": 72
+    },
+    {
+        "name": "СОУС КЕТЧУП",
+        "price": 21,
+        "price_original": 17.00,
+        "id": 73
+    },
+    {
+        "name": "СОУС КИСЛО-СОЛОДКИЙ",
+        "price": 21,
+        "price_original": 17.00,
+        "id": 74
+    },
+    {
+        "name": "СОУС МАЙОНЕЗ",
+        "price": 21,
+        "price_original": 17.00,
+        "id": 75
+    },
+    {
+        "name": "СОУС СИРНИЙ",
+        "price": 21,
+        "price_original": 17.00,
+        "id": 76
+    },
+    {
+        "name": "СОУС ХАБАНЕРО",
+        "price": 32,
+        "price_original": 27.00,
+        "id": 77
+    },
+    {
+        "name": "СОУС ІЗ СИРОМ ДОРБЛЮ",
+        "price": 32,
+        "price_original": 27.00,
+        "id": 78
+    },
+    {
+        "name": "СПРАЙТ ВЕЛИКИЙ 500МЛ",
+        "price": 66,
+        "price_original": 55.00,
+        "id": 79
+    },
+    {
+        "name": "СТРІПСИ ЧІКЕН БОКС (6стріпсів, 9МакНагетс)",
+        "price": 332,
+        "price_original": 265.00,
+        "id": 80
+    },
+    {
+        "name": "ТЕЙСТІ ДЖУНІОР",
+        "price": 113,
+        "price_original": 95.00,
+        "id": 83
+    },
+    {
+        "name": "ТОСТ ІЗ СИРОМ",
+        "price": 46,
+        "price_original": 39.00,
+        "id": 84
+    },
+    {
+        "name": "ФАНТА ВЕЛИКА 500МЛ",
+        "price": 66,
+        "price_original": 55.00,
+        "id": 85
+    },
+    {
+        "name": "ФЛЕТ ВАЙТ 155МЛ",
+        "price": 72,
+        "price_original": 60.00,
+        "id": 86
+    },
+    {
+        "name": "ФІЛЕ-О-ФІШ",
+        "price": 131,
+        "price_original": 107.00,
+        "id": 87
+    },
+    {
+        "name": "ФІШ РОЛ",
+        "price": 158,
+        "price_original": 129.00,
+        "id": 89
+    },
+    {
+        "name": "ХЕППІ МІЛ ГАМБУРГЕР",
+        "price": 189,
+        "price_original": 150.00,
+        "id": 90
+    },
+    {
+        "name": "ХЕППІ МІЛ ЧІЗБУРГЕР",
+        "price": 189,
+        "price_original": 150.00,
+        "id": 91
+    },
+    {
+        "name": "ХЕППІ МІЛ ЧІКЕН МАКНАГЕТС 4ШТ",
+        "price": 189,
+        "price_original": 150.00,
+        "id": 92
+    },
+    {
+        "name": "ЧАЙ ЗЕЛЕНИЙ З ЦИТРУСОВИМИ 300МЛ",
+        "price": 48,
+        "price_original": 40.00,
+        "id": 93
+    },
+    {
+        "name": "ЧАЙ ЧОРНИЙ 300МЛ",
+        "price": 48,
+        "price_original": 40.00,
+        "id": 94
+    },
+    {
+        "name": "ЧІЗБУРГЕР",
+        "price": 80,
+        "price_original": 67.00,
+        "id": 95
+    },
+    {
+        "name": "ЧІЗБУРГЕР З БЕКОНОМ",
+        "price": 97,
+        "price_original": 82.00,
+        "id": 96
+    },
+    {
+        "name": "ЧІКЕН ДЖУНІОР",
+        "price": 80,
+        "price_original": 67.00,
+        "id": 97
+    },
+    {
+        "name": "ЧІКЕН МАКНАГЕТС 20ШТ",
+        "price": 339,
+        "price_original": 275.00,
+        "id": 98
+    },
+    {
+        "name": "ЧІКЕН МАКНАГЕТС 4ШТ",
+        "price": 74,
+        "price_original": 62.00,
+        "id": 99
+    },
+    {
+        "name": "ЧІКЕН МАКНАГЕТС 6ШТ",
+        "price": 112,
+        "price_original": 92.00,
+        "id": 100
+    },
+    {
+        "name": "ЧІКЕН МАКНАГЕТС 9ШТ",
+        "price": 159,
+        "price_original": 132.00,
+        "id": 101
+    },
+    {
+        "name": "ЧІКЕН РОЛ",
+        "price": 158,
+        "price_original": 129.00,
+        "id": 102
+    }
+]
