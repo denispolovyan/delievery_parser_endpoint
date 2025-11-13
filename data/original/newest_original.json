@@ -1,377 +1,838 @@
-[
-    {
-        "name": "БІГ МАК МЕНЮ",
-        "price_original": 225,
-        "id": 2
-    },
-    {
-        "name": "БІГ ТЕЙСТІ СИНГЛ МЕНЮ",
-        "price_original": 271,
-        "id": 3
-    },
-    {
-        "name": "ДАБЛ БІГ ТЕЙСТІ МЕНЮ",
-        "price_original": 346,
-        "id": 5
-    },
-    {
-        "name": "ДАБЛ РОЯЛ ЧІЗБУРГЕР МЕНЮ",
-        "price_original": 312,
-        "id": 6
-    },
-    {
-        "name": "ДАБЛ ЧІЗБУРГЕР МЕНЮ",
-        "price_original": 202,
-        "id": 7
-    },
-    {
-        "name": "МАККРІСПІ ДЕЛЮКС МЕНЮ",
-        "price_original": 264,
-        "id": 8
-    },
-    {
-        "name": "МАККРІСПІ МЕНЮ",
-        "price_original": 236,
-        "id": 9
-    },
-    {
-        "name": "МАКЧІКЕН МЕНЮ",
-        "price_original": 202,
-        "id": 10
-    },
-    {
-        "name": "РОЯЛ ЧІЗБУРГЕР МЕНЮ",
-        "price_original": 244,
-        "id": 11
-    },
-    {
-        "name": "ФІЛЕ-О-ФІШ МЕНЮ",
-        "price_original": 199,
-        "id": 13
-    },
-    {
-        "name": "ЧІКЕН МАКНАГЕТС 6ШТ МЕНЮ",
-        "price_original": 187,
-        "id": 14
-    },
-    {
-        "name": "ЧІКЕН МАКНАГЕТС 9ШТ МЕНЮ",
-        "price_original": 227,
-        "id": 15
-    },
-    {
-        "name": "КАРТОПЛЯ ФРІ ВЕЛИКА",
-        "price_original": 79,
-        "id": 16
-    },
-    {
-        "name": "Картопля Фрі з сирним соусом та беконом",
-        "price_original": 108,
-        "id": 18
-    },
-    {
-        "name": "КАРТОПЛЯ ФРІ МАЛА",
-        "price_original": 53,
-        "id": 19
-    },
-    {
-        "name": "КАРТОПЛЯ ФРІ СЕРЕДНЯ",
-        "price_original": 66,
-        "id": 20
-    },
-    {
-        "name": "КАРТОПЛЯНІ ДІПИ",
-        "price_original": 90,
-        "id": 21
-    },
-    {
-        "name": "АМЕРИКАНО ВЕЛИКЕ 230МЛ",
-        "price_original": 63,
-        "id": 23
-    },
-    {
-        "name": "АМЕРИКАНО З МОЛОКОМ ВЕЛИКЕ 275МЛ",
-        "price_original": 69,
-        "id": 24
-    },
-    {
-        "name": "БІГ МАК",
-        "price_original": 136,
-        "id": 27
-    },
-    {
-        "name": "БІГ ТЕЙСТІ СИНГЛ",
-        "price_original": 184,
-        "id": 28
-    },
-    {
-        "name": "БІГ ЧІКЕН САЛАТ",
-        "price_original": 221,
-        "id": 29
-    },
-    {
-        "name": "ВОДА ГАЗОВАНА ВЕЛИКА 500МЛ",
-        "price_original": 27,
-        "id": 31
-    },
-    {
-        "name": "ВОДА НЕГАЗОВАНА ВЕЛИКА 500МЛ",
-        "price_original": 27,
-        "id": 32
-    },
-    {
-        "name": "ВІВСЯНА КАША",
-        "price_original": 40,
-        "id": 33
-    },
-    {
-        "name": "ГАМБУРГЕР",
-        "price_original": 61,
-        "id": 34
-    },
-    {
-        "name": "ДАБЛ БІГ ТЕЙСТІ",
-        "price_original": 260,
-        "id": 35
-    },
-    {
-        "name": "ДАБЛ РОЯЛ ЧІЗБУРГЕР",
-        "price_original": 230,
-        "id": 36
-    },
-    {
-        "name": "ДАБЛ ЧІЗБУРГЕР",
-        "price_original": 116,
-        "id": 37
-    },
-    {
-        "name": "КАКАО ВЕЛИКЕ 310МЛ",
-        "price_original": 69,
-        "id": 39
-    },
-    {
-        "name": "КАПУЧИНО ВЕЛИКЕ 245МЛ",
-        "price_original": 69,
-        "id": 40
-    },
-    {
-        "name": "КОКА-КОЛА ВЕЛИКА 500МЛ",
-        "price_original": 58,
-        "id": 42
-    },
-    {
-        "name": "КУРЯЧІ СТРІПСИ 12ШТ",
-        "price_original": 289,
-        "id": 43
-    },
-    {
-        "name": "КУРЯЧІ СТРІПСИ 3ШТ",
-        "price_original": 94,
-        "id": 44
-    },
-    {
-        "name": "КУРЯЧІ СТРІПСИ 6ШТ",
-        "price_original": 158,
-        "id": 45
-    },
-    {
-        "name": "ЛАТЕ ВЕЛИКЕ 295МЛ",
-        "price_original": 69,
-        "id": 46
-    },
-    {
-        "name": "МАККРІСПІ",
-        "price_original": 153,
-        "id": 48
-    },
-    {
-        "name": "МАККРІСПІ ДЕЛЮКС",
-        "price_original": 184,
-        "id": 49
-    },
-    {
-        "name": "МАКПИРІГ ВИШНЕВИЙ",
-        "price_original": 48,
-        "id": 50
-    },
-    {
-        "name": "МАКФЛУРІ КІТ КАТ КАРАМЕЛЬ",
-        "price_original": 83,
-        "id": 55
-    },
-    {
-        "name": "МАКФЛУРІ КІТ КАТ ПОЛУНИЦЯ",
-        "price_original": 83,
-        "id": 56
-    },
-    {
-        "name": "МАКЧІКЕН",
-        "price_original": 115,
-        "id": 59
-    },
-    {
-        "name": "МОККО 295МЛ",
-        "price_original": 74,
-        "id": 65
-    },
-    {
-        "name": "РОЯЛ ЧІЗБУРГЕР",
-        "price_original": 155,
-        "id": 67
-    },
-    {
-        "name": "СОУС БАРБЕКЮ",
-        "price_original": 18,
-        "id": 69
-    },
-    {
-        "name": "СОУС ГІРЧИЧНИЙ",
-        "price_original": 18,
-        "id": 70
-    },
-    {
-        "name": "СОУС ЖУРАВЛИНОВИЙ",
-        "price_original": 18,
-        "id": 71
-    },
-    {
-        "name": "СОУС КАРІ",
-        "price_original": 18,
-        "id": 72
-    },
-    {
-        "name": "СОУС КЕТЧУП",
-        "price_original": 18,
-        "id": 73
-    },
-    {
-        "name": "СОУС КИСЛО-СОЛОДКИЙ",
-        "price_original": 18,
-        "id": 74
-    },
-    {
-        "name": "СОУС МАЙОНЕЗ",
-        "price_original": 18,
-        "id": 75
-    },
-    {
-        "name": "СОУС СИРНИЙ",
-        "price_original": 18,
-        "id": 76
-    },
-    {
-        "name": "СОУС ХАБАНЕРО",
-        "price_original": 29,
-        "id": 77
-    },
-    {
-        "name": "СОУС ІЗ СИРОМ ДОРБЛЮ",
-        "price_original": 29,
-        "id": 78
-    },
-    {
-        "name": "СПРАЙТ ВЕЛИКИЙ 500МЛ",
-        "price_original": 58,
-        "id": 79
-    },
-    {
-        "name": "СТРІПСИ ЧІКЕН БОКС (6стріпсів, 9МакНагетс)",
-        "price_original": 279,
-        "id": 80
-    },
-    {
-        "name": "ТЕЙСТІ ДЖУНІОР",
-        "price_original": 100,
-        "id": 83
-    },
-    {
-        "name": "ТОСТ ІЗ СИРОМ",
-        "price_original": 41,
-        "id": 84
-    },
-    {
-        "name": "ФАНТА ВЕЛИКА 500МЛ",
-        "price_original": 58,
-        "id": 85
-    },
-    {
-        "name": "ФЛЕТ ВАЙТ 155МЛ",
-        "price_original": 63,
-        "id": 86
-    },
-    {
-        "name": "ФІЛЕ-О-ФІШ",
-        "price_original": 113,
-        "id": 87
-    },
-    {
-        "name": "ФІШ РОЛ",
-        "price_original": 136,
-        "id": 89
-    },
-    {
-        "name": "ХЕППІ МІЛ ГАМБУРГЕР",
-        "price_original": 158,
-        "id": 90
-    },
-    {
-        "name": "ХЕППІ МІЛ ЧІЗБУРГЕР",
-        "price_original": 158,
-        "id": 91
-    },
-    {
-        "name": "ХЕППІ МІЛ ЧІКЕН МАКНАГЕТС 4ШТ",
-        "price_original": 158,
-        "id": 92
-    },
-    {
-        "name": "ЧАЙ ЗЕЛЕНИЙ З ЦИТРУСОВИМИ 300МЛ",
-        "price_original": 42,
-        "id": 93
-    },
-    {
-        "name": "ЧАЙ ЧОРНИЙ 300МЛ",
-        "price_original": 42,
-        "id": 94
-    },
-    {
-        "name": "ЧІЗБУРГЕР",
-        "price_original": 71,
-        "id": 95
-    },
-    {
-        "name": "ЧІЗБУРГЕР З БЕКОНОМ",
-        "price_original": 87,
-        "id": 96
-    },
-    {
-        "name": "ЧІКЕН ДЖУНІОР",
-        "price_original": 71,
-        "id": 97
-    },
-    {
-        "name": "ЧІКЕН МАКНАГЕТС 20ШТ",
-        "price_original": 289,
-        "id": 98
-    },
-    {
-        "name": "ЧІКЕН МАКНАГЕТС 4ШТ",
-        "price_original": 66,
-        "id": 99
-    },
-    {
-        "name": "ЧІКЕН МАКНАГЕТС 6ШТ",
-        "price_original": 97,
-        "id": 100
-    },
-    {
-        "name": "ЧІКЕН МАКНАГЕТС 9ШТ",
-        "price_original": 139,
-        "id": 101
-    },
-    {
-        "name": "ЧІКЕН РОЛ",
-        "price_original": 136,
-        "id": 102
-    }
-]
+{
+    "БУРГЕРИ": [
+        {
+            "id": 1,
+            "name": "біг чікен чіз",
+            "price_original": 245
+        },
+        {
+            "id": 2,
+            "name": "біг біф чіз",
+            "price_original": 245
+        },
+        {
+            "id": 3,
+            "name": "тейсті джуніор",
+            "price_original": 99
+        },
+        {
+            "id": 4,
+            "name": "біг тейсті сингл",
+            "price_original": 185
+        },
+        {
+            "id": 5,
+            "name": "дабл біг тейсті",
+            "price_original": 265
+        },
+        {
+            "id": 6,
+            "name": "маккріспі",
+            "price_original": 156
+        },
+        {
+            "id": 7,
+            "name": "маккріспі делюкс",
+            "price_original": 189
+        },
+        {
+            "id": 8,
+            "name": "біг мак",
+            "price_original": 137
+        },
+        {
+            "id": 9,
+            "name": "гамбургер",
+            "price_original": 61
+        },
+        {
+            "id": 10,
+            "name": "чізбургер",
+            "price_original": 70
+        },
+        {
+            "id": 11,
+            "name": "дабл чізбургер",
+            "price_original": 116
+        },
+        {
+            "id": 12,
+            "name": "макчікен",
+            "price_original": 116
+        },
+        {
+            "id": 13,
+            "name": "філе-о-фіш",
+            "price_original": 114
+        },
+        {
+            "id": 14,
+            "name": "філе-о-фіш делюкс",
+            "price_original": 134
+        },
+        {
+            "id": 15,
+            "name": "роял чізбургер",
+            "price_original": 157
+        },
+        {
+            "id": 16,
+            "name": "дабл роял чізбургер",
+            "price_original": 239
+        },
+        {
+            "id": 17,
+            "name": "чізбургер з беконом",
+            "price_original": 85
+        },
+        {
+            "id": 18,
+            "name": "чікен джуніор",
+            "price_original": 70
+        }
+    ],
+    "КУРКА": [
+        {
+            "id": 19,
+            "name": "чікен макнагетс, 4 шт.",
+            "price_original": 65
+        },
+        {
+            "id": 20,
+            "name": "чікен макнагетс, 6 шт.",
+            "price_original": 98
+        },
+        {
+            "id": 21,
+            "name": "чікен макнагетс, 9 шт.",
+            "price_original": 139
+        },
+        {
+            "id": 22,
+            "name": "чікен макнагетс, 20 шт.",
+            "price_original": 295
+        },
+        {
+            "id": 23,
+            "name": "курячі стріпси, 3 шт.",
+            "price_original": 92
+        },
+        {
+            "id": 24,
+            "name": "курячі стріпси, 6 шт.",
+            "price_original": 165
+        },
+        {
+            "id": 25,
+            "name": "курячі стріпси, 12 шт.",
+            "price_original": 295
+        },
+        {
+            "id": 26,
+            "name": "чікен бокс",
+            "price_original": 289
+        }
+    ],
+    "КАРТОПЛЯ, КАША ТА СИР": [
+        {
+            "id": 27,
+            "name": "картопля фрі велика",
+            "price_original": 83
+        },
+        {
+            "id": 28,
+            "name": "картопля фрі середня",
+            "price_original": 69
+        },
+        {
+            "id": 29,
+            "name": "картопля фрі маленька",
+            "price_original": 50
+        },
+        {
+            "id": 30,
+            "name": "картопляні діпи",
+            "price_original": 98
+        },
+        {
+            "id": 31,
+            "name": "картопля фрі із сирним соусом і беконом",
+            "price_original": 108
+        },
+        {
+            "id": 32,
+            "name": "картопля фрі з грибним соусом і смаженою цибулею",
+            "price_original": 108
+        },
+        {
+            "id": 33,
+            "name": "сир брі",
+            "price_original": 105
+        },
+        {
+            "id": 34,
+            "name": "моцарела стікси",
+            "price_original": 87
+        }
+    ],
+    "РОЛИ ТА САЛАТИ": [
+        {
+            "id": 35,
+            "name": "чікен рол",
+            "price_original": 138
+        },
+        {
+            "id": 36,
+            "name": "фіш рол",
+            "price_original": 138
+        },
+        {
+            "id": 37,
+            "name": "мікс салат",
+            "price_original": 120
+        },
+        {
+            "id": 38,
+            "name": "біг чікен салат",
+            "price_original": 210
+        }
+    ],
+    "МАКМЕНЮ": [
+        {
+            "id": 39,
+            "name": "біг мак меню",
+            "price_original": 229
+        },
+        {
+            "id": 40,
+            "name": "біг тейсті сингл меню",
+            "price_original": 269
+        },
+        {
+            "id": 41,
+            "name": "дабл біг тейсті меню",
+            "price_original": 348
+        },
+        {
+            "id": 42,
+            "name": "дабл роял чізбургер меню",
+            "price_original": 325
+        },
+        {
+            "id": 43,
+            "name": "дабл чізбургер меню",
+            "price_original": 207
+        },
+        {
+            "id": 44,
+            "name": "маккріспі делюкс меню",
+            "price_original": 275
+        },
+        {
+            "id": 45,
+            "name": "маккріспі меню",
+            "price_original": 246
+        },
+        {
+            "id": 46,
+            "name": "макчікен меню",
+            "price_original": 207
+        },
+        {
+            "id": 47,
+            "name": "роял чізбургер меню",
+            "price_original": 247
+        },
+        {
+            "id": 48,
+            "name": "філе-о-фіш меню",
+            "price_original": 203
+        },
+        {
+            "id": 49,
+            "name": "філе-о-фіш делюкс меню",
+            "price_original": 223
+        },
+        {
+            "id": 50,
+            "name": "чікен макнагетс 6шт меню",
+            "price_original": 189
+        },
+        {
+            "id": 51,
+            "name": "чікен макнагетс 9шт меню",
+            "price_original": 229
+        },
+        {
+            "id": 52,
+            "name": "Житній із куркою та часниковим соусом",
+            "price_original": 245
+        },
+        {
+            "id": 53,
+            "name": "Житній із свининою та соусом із хріном",
+            "price_original": 245
+        },
+        {
+            "id": 54,
+            "name": "Біг біф чіз меню",
+            "price_original": 335
+        },
+        {
+            "id": 55,
+            "name": "Біг чікен чіз меню",
+            "price_original": 335
+        }
+    ],
+    "ХЕППІ МІЛ": [
+        {
+            "id": 56,
+            "name": "хепі міл",
+            "price_original": 165
+        }
+    ],
+    "КАВА ТА ГАРЯЧІ НАПОЇ": [
+        {
+            "id": 57,
+            "name": "лате імбирне печиво",
+            "price_original": 80
+        },
+        {
+            "id": 58,
+            "name": "лате смажене маршмелоу",
+            "price_original": 79
+        },
+        {
+            "id": 59,
+            "name": "капучино смажене маршмелоу",
+            "price_original": 79
+        },
+        {
+            "id": 60,
+            "name": "какао мале",
+            "price_original": 48
+        },
+        {
+            "id": 61,
+            "name": "лате велике",
+            "price_original": 69
+        },
+        {
+            "id": 62,
+            "name": "лате мале",
+            "price_original": 48
+        },
+        {
+            "id": 63,
+            "name": "капучино велике",
+            "price_original": 69
+        },
+        {
+            "id": 64,
+            "name": "капучино мале",
+            "price_original": 48
+        },
+        {
+            "id": 65,
+            "name": "флет вайт",
+            "price_original": 63
+        },
+        {
+            "id": 66,
+            "name": "американо з молоком велике",
+            "price_original": 69
+        },
+        {
+            "id": 67,
+            "name": "американо з молоком мале",
+            "price_original": 48
+        },
+        {
+            "id": 68,
+            "name": "американо велике",
+            "price_original": 63
+        },
+        {
+            "id": 69,
+            "name": "американо мале",
+            "price_original": 42
+        },
+        {
+            "id": 70,
+            "name": "подвійне еспресо",
+            "price_original": 42
+        },
+        {
+            "id": 71,
+            "name": "еспресо",
+            "price_original": 37
+        },
+        {
+            "id": 72,
+            "name": "мокко",
+            "price_original": 74
+        },
+        {
+            "id": 73,
+            "name": "чай чорний",
+            "price_original": 42
+        },
+        {
+            "id": 74,
+            "name": "чай зелений із цитрусовими",
+            "price_original": 42
+        },
+        {
+            "id": 75,
+            "name": "какао велике",
+            "price_original": 69
+        }
+    ],
+    "ХОЛОДНІ НАПОЇ": [
+        {
+            "id": 76,
+            "name": "апельсиновий сік великий",
+            "price_original": 99
+        },
+        {
+            "id": 77,
+            "name": "апельсиновий сік маленький",
+            "price_original": 74
+        },
+        {
+            "id": 78,
+            "name": "кока-кола велика",
+            "price_original": 58
+        },
+        {
+            "id": 79,
+            "name": "кока-кола середня",
+            "price_original": 53
+        },
+        {
+            "id": 80,
+            "name": "кока-кола мала",
+            "price_original": 42
+        },
+        {
+            "id": 81,
+            "name": "фанта велика",
+            "price_original": 58
+        },
+        {
+            "id": 82,
+            "name": "фанта середня",
+            "price_original": 53
+        },
+        {
+            "id": 83,
+            "name": "фанта мала",
+            "price_original": 42
+        },
+        {
+            "id": 84,
+            "name": "спрайт великий",
+            "price_original": 58
+        },
+        {
+            "id": 85,
+            "name": "спрайт середній",
+            "price_original": 53
+        },
+        {
+            "id": 86,
+            "name": "спрайт малий",
+            "price_original": 42
+        },
+        {
+            "id": 87,
+            "name": "вода негазована велика",
+            "price_original": 27
+        },
+        {
+            "id": 88,
+            "name": "вода негазована мала",
+            "price_original": 21
+        },
+        {
+            "id": 89,
+            "name": "вода газована велика",
+            "price_original": 27
+        },
+        {
+            "id": 90,
+            "name": "вода газована мала",
+            "price_original": 21
+        },
+        {
+            "id": 91,
+            "name": "сік «галіція» яблучно-грушевий",
+            "price_original": 37
+        },
+        {
+            "id": 92,
+            "name": "сік «галіція» яблучний",
+            "price_original": 37
+        },
+        {
+            "id": 93,
+            "name": "макшейк шоколад",
+            "price_original": 90
+        },
+        {
+            "id": 94,
+            "name": "макшейк ваніль",
+            "price_original": 90
+        },
+        {
+            "id": 95,
+            "name": "макшейк полуниця",
+            "price_original": 90
+        },
+        {
+            "id": 96,
+            "name": "grimace шейк",
+            "price_original": 98
+        }
+    ],
+    "ДЕСЕРТИ": [
+        {
+            "id": 97,
+            "name": "максанді карамель",
+            "price_original": 73
+        },
+        {
+            "id": 98,
+            "name": "максанді шоколад",
+            "price_original": 73
+        },
+        {
+            "id": 99,
+            "name": "максанді полуниця",
+            "price_original": 73
+        },
+        {
+            "id": 100,
+            "name": "максанді карамель у вафельному стаканчику",
+            "price_original": 73
+        },
+        {
+            "id": 101,
+            "name": "максанді шоколад у вафельному стаканчику",
+            "price_original": 73
+        },
+        {
+            "id": 102,
+            "name": "максанді полуниця у вафельному стаканчику",
+            "price_original": 73
+        },
+        {
+            "id": 103,
+            "name": "морозиво ріжок",
+            "price_original": 50
+        },
+        {
+            "id": 104,
+            "name": "макфлурі кіт кат шоколад",
+            "price_original": 89
+        },
+        {
+            "id": 105,
+            "name": "макфлурі кіт кат карамель",
+            "price_original": 89
+        },
+        {
+            "id": 106,
+            "name": "макфлурі кіт кат полуниця",
+            "price_original": 89
+        },
+        {
+            "id": 107,
+            "name": "макпиріг вишневий",
+            "price_original": 49
+        },
+        {
+            "id": 108,
+            "name": "макпиріг крем-чорниця",
+            "price_original": 59
+        },
+        {
+            "id": 109,
+            "name": "круасан мигдалевий",
+            "price_original": 49
+        },
+        {
+            "id": 110,
+            "name": "круасан із какао-кремом",
+            "price_original": 49
+        },
+        {
+            "id": 111,
+            "name": "мафін крем-вишня",
+            "price_original": 75
+        },
+        {
+            "id": 112,
+            "name": "дубайський шоколадний мінідонат",
+            "price_original": 39
+        }
+    ],
+    "ТОПІНГИ ТА СИРОПИ": [
+        {
+            "id": 113,
+            "name": "полива шоколадна",
+            "price_original": 15
+        },
+        {
+            "id": 114,
+            "name": "полива карамель",
+            "price_original": 15
+        },
+        {
+            "id": 115,
+            "name": "полива полунична",
+            "price_original": 15
+        },
+        {
+            "id": 116,
+            "name": "мед",
+            "price_original": 19
+        },
+        {
+            "id": 117,
+            "name": "сироп \"смажений лісовий горіх\"",
+            "price_original": 10
+        },
+        {
+            "id": 118,
+            "name": "сироп \"брауні\"",
+            "price_original": 10
+        },
+        {
+            "id": 119,
+            "name": "сироп \"солона карамель\"",
+            "price_original": 10
+        },
+        {
+            "id": 120,
+            "name": "сироп \"імбирне печиво\"",
+            "price_original": 10
+        },
+        {
+            "id": 121,
+            "name": "сироп смажене маршмелоу",
+            "price_original": 12
+        }
+    ],
+    "CНІДАНКИ": [
+        {
+            "id": 122,
+            "name": "соус «хабанеро»",
+            "price_original": 28
+        },
+        {
+            "id": 123,
+            "name": "соус із сиром дорблю",
+            "price_original": 28
+        },
+        {
+            "id": 124,
+            "name": "майонез",
+            "price_original": 19
+        },
+        {
+            "id": 125,
+            "name": "соус «барбекю»",
+            "price_original": 19
+        },
+        {
+            "id": 126,
+            "name": "кетчуп",
+            "price_original": 19
+        },
+        {
+            "id": 127,
+            "name": "соус «гірчичний»",
+            "price_original": 19
+        },
+        {
+            "id": 128,
+            "name": "соус «кисло-солодкий»",
+            "price_original": 19
+        },
+        {
+            "id": 129,
+            "name": "соус «сирний»",
+            "price_original": 19
+        },
+        {
+            "id": 130,
+            "name": "соус «карі»",
+            "price_original": 19
+        },
+        {
+            "id": 131,
+            "name": "соус «журавлиновий»",
+            "price_original": 19
+        },
+        {
+            "id": 132,
+            "name": "салатна заправка «1000 островів»",
+            "price_original": 28
+        },
+        {
+            "id": 133,
+            "name": "оливкова олія",
+            "price_original": 28
+        },
+        {
+            "id": 134,
+            "name": "соус «солодкий чилі»",
+            "price_original": 28
+        }
+    ],
+    "РАНКОВЕ": [
+        {
+            "id": 135,
+            "name": "макмафін з яйцем і сиром",
+            "price_original": 65
+        },
+        {
+            "id": 136,
+            "name": "макмафін з яйцем і беконом",
+            "price_original": 79
+        },
+        {
+            "id": 137,
+            "name": "макмафін з яйцем і свининою",
+            "price_original": 106
+        },
+        {
+            "id": 138,
+            "name": "подвійний макмафін з яйцем і свининою",
+            "price_original": 154
+        },
+        {
+            "id": 139,
+            "name": "чікен фреш макмафін",
+            "price_original": 106
+        },
+        {
+            "id": 140,
+            "name": "подвійний чікен фреш макмафін",
+            "price_original": 154
+        },
+        {
+            "id": 141,
+            "name": "фреш макмафін",
+            "price_original": 106
+        },
+        {
+            "id": 142,
+            "name": "подвійний фреш макмафін",
+            "price_original": 154
+        },
+        {
+            "id": 143,
+            "name": "тост із сиром",
+            "price_original": 40
+        },
+        {
+            "id": 144,
+            "name": "тост із сиром і беконом",
+            "price_original": 55
+        },
+        {
+            "id": 145,
+            "name": "сніданок рол",
+            "price_original": 135
+        },
+        {
+            "id": 146,
+            "name": "фреш рол",
+            "price_original": 135
+        },
+        {
+            "id": 147,
+            "name": "чікен фреш рол",
+            "price_original": 135
+        },
+        {
+            "id": 148,
+            "name": "картопляник",
+            "price_original": 40
+        },
+        {
+            "id": 149,
+            "name": "каша вівсяна (без наповнювачів)",
+            "price_original": 40
+        }
+    ],
+    "РАНКОВЕ МЕНЮ": [
+        {
+            "id": 150,
+            "name": "тост із сиром меню",
+            "price_original": 105
+        },
+        {
+            "id": 151,
+            "name": "тост із сиром і беконом меню",
+            "price_original": 115
+        },
+        {
+            "id": 152,
+            "name": "макмафін з яйцем і сиром меню",
+            "price_original": 132
+        },
+        {
+            "id": 153,
+            "name": "макмафін з яйцем і беконом меню",
+            "price_original": 145
+        },
+        {
+            "id": 154,
+            "name": "макмафін з яйцем і свининою меню",
+            "price_original": 172
+        },
+        {
+            "id": 155,
+            "name": "фреш макмафін меню",
+            "price_original": 172
+        },
+        {
+            "id": 156,
+            "name": "чікен фреш макмафін меню",
+            "price_original": 172
+        },
+        {
+            "id": 157,
+            "name": "подвійний макмафін з яйцем і свининою меню",
+            "price_original": 218
+        },
+        {
+            "id": 158,
+            "name": "подвійний чікен фреш макмафін меню",
+            "price_original": 218
+        },
+        {
+            "id": 159,
+            "name": "подвійний фреш макмафін меню",
+            "price_original": 218
+        },
+        {
+            "id": 160,
+            "name": "фреш рол меню",
+            "price_original": 198
+        },
+        {
+            "id": 161,
+            "name": "чікен фреш рол меню",
+            "price_original": 200
+        },
+        {
+            "id": 162,
+            "name": "сніданок рол меню",
+            "price_original": 200
+        }
+    ]
+}

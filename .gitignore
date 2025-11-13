@@ -5,7 +5,7 @@
 !.gitignore
 
 # Розблокувати папку data і конкретний файл menu.json
-!/data/
-!/data/menu.json
-!/data/result.json
+!/data/*
 
+# Ігнорувати фронтенд
+frontend/

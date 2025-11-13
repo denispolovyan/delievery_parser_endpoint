@@ -1,492 +1,1136 @@
 [
   {
     "id": 1,
-    "name": "АМЕРИКАНО ВЕЛИКЕ 230МЛ",
-    "price_glovo": 72,
-    "price_bolt": 72,
-    "price_original": 63
+    "name": "БІГ ЧІКЕН ЧІЗ",
+    "price_original": 245,
+    "price_glovo": 281,
+    "price_bolt": 281
   },
   {
     "id": 2,
-    "name": "АМЕРИКАНО З МОЛОКОМ ВЕЛИКЕ 275МЛ",
-    "price_glovo": 79,
-    "price_bolt": 79,
-    "price_original": 69
+    "name": "БІГ БІФ ЧІЗ",
+    "price_original": 245,
+    "price_glovo": 281,
+    "price_bolt": 281
   },
   {
     "id": 3,
-    "name": "БІГ МАК",
-    "price_glovo": 157,
-    "price_bolt": 157,
-    "price_original": 136
+    "name": "ТЕЙСТІ ДЖУНІОР",
+    "price_original": 99,
+    "price_glovo": 113,
+    "price_bolt": 113
   },
   {
     "id": 4,
-    "name": "БІГ МАК МЕНЮ",
-    "price_glovo": 263,
-    "price_bolt": 263,
-    "price_original": 225
+    "name": "БІГ ТЕЙСТІ СИНГЛ",
+    "price_original": 185,
+    "price_glovo": 212,
+    "price_bolt": 212
   },
   {
     "id": 5,
-    "name": "БІГ ТЕЙСТІ СИНГЛ",
-    "price_glovo": 212,
-    "price_bolt": 212,
-    "price_original": 184
+    "name": "ДАБЛ БІГ ТЕЙСТІ",
+    "price_original": 265,
+    "price_glovo": 304,
+    "price_bolt": 304
   },
   {
     "id": 6,
-    "name": "БІГ ТЕЙСТІ СИНГЛ МЕНЮ",
-    "price_glovo": 309,
-    "price_bolt": 309,
-    "price_original": 271
+    "name": "МАККРІСПІ",
+    "price_original": 156,
+    "price_glovo": 179,
+    "price_bolt": 179
   },
   {
     "id": 7,
-    "name": "БІГ ЧІКЕН САЛАТ",
-    "price_glovo": 241,
-    "price_bolt": 241,
-    "price_original": 221
+    "name": "МАККРІСПІ ДЕЛЮКС",
+    "price_original": 189,
+    "price_glovo": 217,
+    "price_bolt": 217
   },
   {
     "id": 8,
-    "name": "ВІВСЯНА КАША",
-    "price_glovo": 46,
-    "price_bolt": 46,
-    "price_original": 40
+    "name": "БІГ МАК",
+    "price_original": 137,
+    "price_glovo": 157,
+    "price_bolt": 157
   },
   {
     "id": 9,
     "name": "ГАМБУРГЕР",
+    "price_original": 61,
     "price_glovo": 70,
-    "price_bolt": 70,
-    "price_original": 61
+    "price_bolt": 70
   },
   {
     "id": 10,
-    "name": "ДАБЛ БІГ ТЕЙСТІ",
-    "price_glovo": 304,
-    "price_bolt": 304,
-    "price_original": 260
+    "name": "ЧІЗБУРГЕР",
+    "price_original": 70,
+    "price_glovo": 80,
+    "price_bolt": 80
   },
   {
     "id": 11,
-    "name": "ДАБЛ БІГ ТЕЙСТІ МЕНЮ",
-    "price_glovo": 400,
-    "price_bolt": 400,
-    "price_original": 346
+    "name": "ДАБЛ ЧІЗБУРГЕР",
+    "price_original": 116,
+    "price_glovo": 133,
+    "price_bolt": 133
   },
   {
     "id": 12,
-    "name": "ДАБЛ РОЯЛ ЧІЗБУРГЕР",
-    "price_glovo": 274,
-    "price_bolt": 274,
-    "price_original": 230
+    "name": "МАКЧІКЕН",
+    "price_original": 116,
+    "price_glovo": 133,
+    "price_bolt": 133
   },
   {
     "id": 13,
-    "name": "ДАБЛ РОЯЛ ЧІЗБУРГЕР МЕНЮ",
-    "price_glovo": 373,
-    "price_bolt": 373,
-    "price_original": 312
+    "name": "ФІЛЕ-О-ФІШ",
+    "price_original": 114,
+    "price_glovo": 131,
+    "price_bolt": 131
   },
   {
     "id": 14,
-    "name": "ДАБЛ ЧІЗБУРГЕР",
-    "price_glovo": 133,
-    "price_bolt": 133,
-    "price_original": 116
+    "name": "ФІЛЕ-О-ФІШ ДЕЛЮКС",
+    "price_original": 134,
+    "price_glovo": 154,
+    "price_bolt": 154
   },
   {
     "id": 15,
-    "name": "ДАБЛ ЧІЗБУРГЕР МЕНЮ",
-    "price_glovo": 238,
-    "price_bolt": 238,
-    "price_original": 202
+    "name": "РОЯЛ ЧІЗБУРГЕР",
+    "price_original": 157,
+    "price_glovo": 180,
+    "price_bolt": 180
   },
   {
     "id": 16,
-    "name": "КАКАО ВЕЛИКЕ 310МЛ",
-    "price_glovo": 79,
-    "price_bolt": 79,
-    "price_original": 69
+    "name": "ДАБЛ РОЯЛ ЧІЗБУРГЕР",
+    "price_original": 239,
+    "price_glovo": 274,
+    "price_bolt": 274
   },
   {
     "id": 17,
-    "name": "КАПУЧИНО ВЕЛИКЕ 245МЛ",
-    "price_glovo": 79,
-    "price_bolt": 79,
-    "price_original": 69
+    "name": "ЧІЗБУРГЕР З БЕКОНОМ",
+    "price_original": 85,
+    "price_glovo": 97,
+    "price_bolt": 97
   },
   {
     "id": 18,
-    "name": "КАРТОПЛЯ ФРІ ВЕЛИКА",
-    "price_glovo": 95,
-    "price_bolt": 95,
-    "price_original": 79
+    "name": "ЧІКЕН ДЖУНІОР",
+    "price_original": 70,
+    "price_glovo": 80,
+    "price_bolt": 80
   },
   {
     "id": 19,
-    "name": "КАРТОПЛЯ ФРІ З СИРНИМ СОУСОМ ТА БЕКОНОМ",
-    "price_glovo": 124,
-    "price_bolt": 124,
-    "price_original": 108
+    "name": "ЧІКЕН МАКНАГЕТС, 4 ШТ.",
+    "price_original": 65,
+    "price_glovo": 74,
+    "price_bolt": 74
   },
   {
     "id": 20,
-    "name": "КАРТОПЛЯ ФРІ МАЛА",
-    "price_glovo": 57,
-    "price_bolt": 57,
-    "price_original": 53
+    "name": "ЧІКЕН МАКНАГЕТС, 6 ШТ.",
+    "price_original": 98,
+    "price_glovo": 112,
+    "price_bolt": 112
   },
   {
     "id": 21,
-    "name": "КАРТОПЛЯ ФРІ СЕРЕДНЯ",
-    "price_glovo": 79,
-    "price_bolt": 79,
-    "price_original": 66
+    "name": "ЧІКЕН МАКНАГЕТС, 9 ШТ.",
+    "price_original": 139,
+    "price_glovo": 159,
+    "price_bolt": 159
   },
   {
     "id": 22,
-    "name": "КАРТОПЛЯНІ ДІПИ",
-    "price_glovo": 110,
-    "price_bolt": 110,
-    "price_original": 90
+    "name": "ЧІКЕН МАКНАГЕТС, 20 ШТ.",
+    "price_original": 295,
+    "price_glovo": 339,
+    "price_bolt": 339
   },
   {
     "id": 23,
-    "name": "КУРЯЧІ СТРІПСИ 12ШТ",
-    "price_glovo": 339,
-    "price_bolt": 339,
-    "price_original": 289
+    "name": "КУРЯЧІ СТРІПСИ, 3 ШТ.",
+    "price_original": 92,
+    "price_glovo": 105,
+    "price_bolt": 105
   },
   {
     "id": 24,
-    "name": "КУРЯЧІ СТРІПСИ 3ШТ",
-    "price_glovo": 105,
-    "price_bolt": 105,
-    "price_original": 94
+    "name": "КУРЯЧІ СТРІПСИ, 6 ШТ.",
+    "price_original": 165,
+    "price_glovo": 189,
+    "price_bolt": 189
   },
   {
     "id": 25,
-    "name": "КУРЯЧІ СТРІПСИ 6ШТ",
-    "price_glovo": 189,
-    "price_bolt": 189,
-    "price_original": 158
+    "name": "КУРЯЧІ СТРІПСИ, 12 ШТ.",
+    "price_original": 295,
+    "price_glovo": 339,
+    "price_bolt": 339
   },
   {
     "id": 26,
-    "name": "ЛАТЕ ВЕЛИКЕ 295МЛ",
-    "price_glovo": 79,
-    "price_bolt": 79,
-    "price_original": 69
+    "name": "ЧІКЕН БОКС",
+    "price_original": 289,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 27,
-    "name": "МАККРІСПІ",
-    "price_glovo": 179,
-    "price_bolt": 179,
-    "price_original": 153
+    "name": "КАРТОПЛЯ ФРІ ВЕЛИКА",
+    "price_original": 83,
+    "price_glovo": 95,
+    "price_bolt": 95
   },
   {
     "id": 28,
-    "name": "МАККРІСПІ ДЕЛЮКС",
-    "price_glovo": 217,
-    "price_bolt": 217,
-    "price_original": 184
+    "name": "КАРТОПЛЯ ФРІ СЕРЕДНЯ",
+    "price_original": 69,
+    "price_glovo": 79,
+    "price_bolt": 79
   },
   {
     "id": 29,
-    "name": "МАККРІСПІ ДЕЛЮКС МЕНЮ",
-    "price_glovo": 316,
-    "price_bolt": 316,
-    "price_original": 264
+    "name": "КАРТОПЛЯ ФРІ МАЛЕНЬКА",
+    "price_original": 50,
+    "price_glovo": 57,
+    "price_bolt": 57
   },
   {
     "id": 30,
-    "name": "МАККРІСПІ МЕНЮ",
-    "price_glovo": 282,
-    "price_bolt": 282,
-    "price_original": 236
+    "name": "КАРТОПЛЯНІ ДІПИ",
+    "price_original": 98,
+    "price_glovo": 110,
+    "price_bolt": 110
   },
   {
     "id": 31,
-    "name": "МАКПИРІГ ВИШНЕВИЙ",
-    "price_glovo": 56,
-    "price_bolt": 56,
-    "price_original": 48
+    "name": "КАРТОПЛЯ ФРІ ІЗ СИРНИМ СОУСОМ І БЕКОНОМ",
+    "price_original": 108,
+    "price_glovo": 124,
+    "price_bolt": 124
   },
   {
     "id": 32,
-    "name": "МАКФЛУРІ КІТ КАТ КАРАМЕЛЬ",
-    "price_glovo": 102,
-    "price_bolt": 102,
-    "price_original": 83
+    "name": "КАРТОПЛЯ ФРІ З ГРИБНИМ СОУСОМ І СМАЖЕНОЮ ЦИБУЛЕЮ",
+    "price_original": 108,
+    "price_glovo": 124,
+    "price_bolt": 124
   },
   {
     "id": 33,
-    "name": "МАКФЛУРІ КІТ КАТ ПОЛУНИЦЯ",
-    "price_glovo": 102,
-    "price_bolt": 102,
-    "price_original": 83
+    "name": "СИР БРІ",
+    "price_original": 105,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 34,
-    "name": "МАКЧІКЕН",
-    "price_glovo": 133,
-    "price_bolt": 133,
-    "price_original": 115
+    "name": "МОЦАРЕЛА СТІКСИ",
+    "price_original": 87,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 35,
-    "name": "МАКЧІКЕН МЕНЮ",
-    "price_glovo": 238,
-    "price_bolt": 238,
-    "price_original": 202
+    "name": "ЧІКЕН РОЛ",
+    "price_original": 138,
+    "price_glovo": 158,
+    "price_bolt": 158
   },
   {
     "id": 36,
-    "name": "МОККО 295МЛ",
-    "price_glovo": 85,
-    "price_bolt": 85,
-    "price_original": 74
+    "name": "ФІШ РОЛ",
+    "price_original": 138,
+    "price_glovo": 158,
+    "price_bolt": 158
   },
   {
     "id": 37,
-    "name": "РОЯЛ ЧІЗБУРГЕР",
-    "price_glovo": 180,
-    "price_bolt": 180,
-    "price_original": 155
+    "name": "МІКС САЛАТ",
+    "price_original": 120,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 38,
-    "name": "РОЯЛ ЧІЗБУРГЕР МЕНЮ",
-    "price_glovo": 284,
-    "price_bolt": 284,
-    "price_original": 244
+    "name": "БІГ ЧІКЕН САЛАТ",
+    "price_original": 210,
+    "price_glovo": 241,
+    "price_bolt": 241
   },
   {
     "id": 39,
-    "name": "СОУС БАРБЕКЮ",
-    "price_glovo": 21,
-    "price_bolt": 21,
-    "price_original": 18
+    "name": "БІГ МАК МЕНЮ",
+    "price_original": 229,
+    "price_glovo": 263,
+    "price_bolt": 263
   },
   {
     "id": 40,
-    "name": "СОУС ГІРЧИЧНИЙ",
-    "price_glovo": 21,
-    "price_bolt": 21,
-    "price_original": 18
+    "name": "БІГ ТЕЙСТІ СИНГЛ МЕНЮ",
+    "price_original": 269,
+    "price_glovo": 309,
+    "price_bolt": 309
   },
   {
     "id": 41,
-    "name": "СОУС ЖУРАВЛИНОВИЙ",
-    "price_glovo": 21,
-    "price_bolt": 21,
-    "price_original": 18
+    "name": "ДАБЛ БІГ ТЕЙСТІ МЕНЮ",
+    "price_original": 348,
+    "price_glovo": 400,
+    "price_bolt": 400
   },
   {
     "id": 42,
-    "name": "СОУС КАРІ",
-    "price_glovo": 21,
-    "price_bolt": 21,
-    "price_original": 18
+    "name": "ДАБЛ РОЯЛ ЧІЗБУРГЕР МЕНЮ",
+    "price_original": 325,
+    "price_glovo": 373,
+    "price_bolt": 373
   },
   {
     "id": 43,
-    "name": "СОУС КЕТЧУП",
-    "price_glovo": 21,
-    "price_bolt": 21,
-    "price_original": 18
+    "name": "ДАБЛ ЧІЗБУРГЕР МЕНЮ",
+    "price_original": 207,
+    "price_glovo": 238,
+    "price_bolt": 238
   },
   {
     "id": 44,
-    "name": "СОУС КИСЛО-СОЛОДКИЙ",
-    "price_glovo": 21,
-    "price_bolt": 21,
-    "price_original": 18
+    "name": "МАККРІСПІ ДЕЛЮКС МЕНЮ",
+    "price_original": 275,
+    "price_glovo": 316,
+    "price_bolt": 316
   },
   {
     "id": 45,
-    "name": "СОУС МАЙОНЕЗ",
-    "price_glovo": 21,
-    "price_bolt": 21,
-    "price_original": 18
+    "name": "МАККРІСПІ МЕНЮ",
+    "price_original": 246,
+    "price_glovo": 282,
+    "price_bolt": 282
   },
   {
     "id": 46,
-    "name": "СОУС СИРНИЙ",
-    "price_glovo": 21,
-    "price_bolt": 21,
-    "price_original": 18
+    "name": "МАКЧІКЕН МЕНЮ",
+    "price_original": 207,
+    "price_glovo": 238,
+    "price_bolt": 238
   },
   {
     "id": 47,
-    "name": "СОУС ХАБАНЕРО",
-    "price_glovo": 32,
-    "price_bolt": 32,
-    "price_original": 29
+    "name": "РОЯЛ ЧІЗБУРГЕР МЕНЮ",
+    "price_original": 247,
+    "price_glovo": 284,
+    "price_bolt": 284
   },
   {
     "id": 48,
-    "name": "СОУС ІЗ СИРОМ ДОРБЛЮ",
-    "price_glovo": 32,
-    "price_bolt": 32,
-    "price_original": 29
+    "name": "ФІЛЕ-О-ФІШ МЕНЮ",
+    "price_original": 203,
+    "price_glovo": 233,
+    "price_bolt": 233
   },
   {
     "id": 49,
-    "name": "СТРІПСИ ЧІКЕН БОКС (6СТРІПСІВ, 9МАКНАГЕТС)",
-    "price_glovo": 332,
-    "price_bolt": 332,
-    "price_original": 279
+    "name": "ФІЛЕ-О-ФІШ ДЕЛЮКС МЕНЮ",
+    "price_original": 223,
+    "price_glovo": 256,
+    "price_bolt": 256
   },
   {
     "id": 50,
-    "name": "ТЕЙСТІ ДЖУНІОР",
-    "price_glovo": 113,
-    "price_bolt": 113,
-    "price_original": 100
+    "name": "ЧІКЕН МАКНАГЕТС 6ШТ МЕНЮ",
+    "price_original": 189,
+    "price_glovo": 217,
+    "price_bolt": 217
   },
   {
     "id": 51,
-    "name": "ТОСТ ІЗ СИРОМ",
-    "price_glovo": 46,
-    "price_bolt": 46,
-    "price_original": 41
+    "name": "ЧІКЕН МАКНАГЕТС 9ШТ МЕНЮ",
+    "price_original": 229,
+    "price_glovo": 263,
+    "price_bolt": 263
   },
   {
     "id": 52,
-    "name": "ФЛЕТ ВАЙТ 155МЛ",
-    "price_glovo": 72,
-    "price_bolt": 72,
-    "price_original": 63
+    "name": "ЖИТНІЙ ІЗ КУРКОЮ ТА ЧАСНИКОВИМ СОУСОМ",
+    "price_original": 245,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 53,
-    "name": "ФІЛЕ-О-ФІШ",
-    "price_glovo": 131,
-    "price_bolt": 131,
-    "price_original": 113
+    "name": "ЖИТНІЙ ІЗ СВИНИНОЮ ТА СОУСОМ ІЗ ХРІНОМ",
+    "price_original": 245,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 54,
-    "name": "ФІЛЕ-О-ФІШ МЕНЮ",
-    "price_glovo": 233,
-    "price_bolt": 233,
-    "price_original": 199
+    "name": "БІГ БІФ ЧІЗ МЕНЮ",
+    "price_original": 335,
+    "price_glovo": 385,
+    "price_bolt": 385
   },
   {
     "id": 55,
-    "name": "ФІШ РОЛ",
-    "price_glovo": 158,
-    "price_bolt": 158,
-    "price_original": 136
+    "name": "БІГ ЧІКЕН ЧІЗ МЕНЮ",
+    "price_original": 335,
+    "price_glovo": 385,
+    "price_bolt": 385
   },
   {
     "id": 56,
-    "name": "ХЕППІ МІЛ ГАМБУРГЕР",
-    "price_glovo": 189,
-    "price_bolt": 189,
-    "price_original": 158
+    "name": "ХЕПІ МІЛ",
+    "price_original": 165,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 57,
-    "name": "ХЕППІ МІЛ ЧІЗБУРГЕР",
-    "price_glovo": 189,
-    "price_bolt": 189,
-    "price_original": 158
+    "name": "ЛАТЕ ІМБИРНЕ ПЕЧИВО",
+    "price_original": 80,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 58,
-    "name": "ХЕППІ МІЛ ЧІКЕН МАКНАГЕТС 4ШТ",
-    "price_glovo": 189,
-    "price_bolt": 189,
-    "price_original": 158
+    "name": "ЛАТЕ СМАЖЕНЕ МАРШМЕЛОУ",
+    "price_original": 79,
+    "price_glovo": 90,
+    "price_bolt": 90
   },
   {
     "id": 59,
-    "name": "ЧАЙ ЗЕЛЕНИЙ З ЦИТРУСОВИМИ 300МЛ",
-    "price_glovo": 48,
-    "price_bolt": 48,
-    "price_original": 42
+    "name": "КАПУЧИНО СМАЖЕНЕ МАРШМЕЛОУ",
+    "price_original": 79,
+    "price_glovo": 90,
+    "price_bolt": 90
   },
   {
     "id": 60,
-    "name": "ЧАЙ ЧОРНИЙ 300МЛ",
-    "price_glovo": 48,
-    "price_bolt": 48,
-    "price_original": 42
+    "name": "КАКАО МАЛЕ",
+    "price_original": 48,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 61,
-    "name": "ЧІЗБУРГЕР",
-    "price_glovo": 80,
-    "price_bolt": 80,
-    "price_original": 71
+    "name": "ЛАТЕ ВЕЛИКЕ",
+    "price_original": 69,
+    "price_glovo": 79,
+    "price_bolt": 79
   },
   {
     "id": 62,
-    "name": "ЧІЗБУРГЕР З БЕКОНОМ",
-    "price_glovo": 97,
-    "price_bolt": 97,
-    "price_original": 87
+    "name": "ЛАТЕ МАЛЕ",
+    "price_original": 48,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 63,
-    "name": "ЧІКЕН ДЖУНІОР",
-    "price_glovo": 80,
-    "price_bolt": 80,
-    "price_original": 71
+    "name": "КАПУЧИНО ВЕЛИКЕ",
+    "price_original": 69,
+    "price_glovo": 79,
+    "price_bolt": 79
   },
   {
     "id": 64,
-    "name": "ЧІКЕН МАКНАГЕТС 20ШТ",
-    "price_glovo": 339,
-    "price_bolt": 339,
-    "price_original": 289
+    "name": "КАПУЧИНО МАЛЕ",
+    "price_original": 48,
+    "price_glovo": null,
+    "price_bolt": null
   },
   {
     "id": 65,
-    "name": "ЧІКЕН МАКНАГЕТС 4ШТ",
-    "price_glovo": 74,
-    "price_bolt": 74,
-    "price_original": 66
+    "name": "ФЛЕТ ВАЙТ",
+    "price_original": 63,
+    "price_glovo": 72,
+    "price_bolt": 72
   },
   {
     "id": 66,
-    "name": "ЧІКЕН МАКНАГЕТС 6ШТ",
-    "price_glovo": 112,
-    "price_bolt": 112,
-    "price_original": 97
+    "name": "АМЕРИКАНО З МОЛОКОМ ВЕЛИКЕ",
+    "price_original": 69,
+    "price_glovo": 79,
+    "price_bolt": 79
   },
   {
     "id": 67,
-    "name": "ЧІКЕН МАКНАГЕТС 6ШТ МЕНЮ",
-    "price_glovo": 217,
-    "price_bolt": 217,
-    "price_original": 187
+    "name": "АМЕРИКАНО З МОЛОКОМ МАЛЕ",
+    "price_original": 48,
+    "price_glovo": 79,
+    "price_bolt": 79
   },
   {
     "id": 68,
-    "name": "ЧІКЕН МАКНАГЕТС 9ШТ",
-    "price_glovo": 159,
-    "price_bolt": 159,
-    "price_original": 139
+    "name": "АМЕРИКАНО ВЕЛИКЕ",
+    "price_original": 63,
+    "price_glovo": 72,
+    "price_bolt": 72
   },
   {
     "id": 69,
-    "name": "ЧІКЕН МАКНАГЕТС 9ШТ МЕНЮ",
-    "price_glovo": 263,
-    "price_bolt": 263,
-    "price_original": 227
+    "name": "АМЕРИКАНО МАЛЕ",
+    "price_original": 42,
+    "price_glovo": 72,
+    "price_bolt": 72
   },
   {
     "id": 70,
-    "name": "ЧІКЕН РОЛ",
+    "name": "ПОДВІЙНЕ ЕСПРЕСО",
+    "price_original": 42,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 71,
+    "name": "ЕСПРЕСО",
+    "price_original": 37,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 72,
+    "name": "МОККО",
+    "price_original": 74,
+    "price_glovo": 85,
+    "price_bolt": 85
+  },
+  {
+    "id": 73,
+    "name": "ЧАЙ ЧОРНИЙ",
+    "price_original": 42,
+    "price_glovo": 48,
+    "price_bolt": 48
+  },
+  {
+    "id": 74,
+    "name": "ЧАЙ ЗЕЛЕНИЙ ІЗ ЦИТРУСОВИМИ",
+    "price_original": 42,
+    "price_glovo": 48,
+    "price_bolt": 48
+  },
+  {
+    "id": 75,
+    "name": "КАКАО ВЕЛИКЕ",
+    "price_original": 69,
+    "price_glovo": 79,
+    "price_bolt": 79
+  },
+  {
+    "id": 76,
+    "name": "АПЕЛЬСИНОВИЙ СІК ВЕЛИКИЙ",
+    "price_original": 99,
+    "price_glovo": 113,
+    "price_bolt": 85
+  },
+  {
+    "id": 77,
+    "name": "АПЕЛЬСИНОВИЙ СІК МАЛЕНЬКИЙ",
+    "price_original": 74,
+    "price_glovo": 113,
+    "price_bolt": 85
+  },
+  {
+    "id": 78,
+    "name": "КОКА-КОЛА ВЕЛИКА",
+    "price_original": 58,
+    "price_glovo": 66,
+    "price_bolt": null
+  },
+  {
+    "id": 79,
+    "name": "КОКА-КОЛА СЕРЕДНЯ",
+    "price_original": 53,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 80,
+    "name": "КОКА-КОЛА МАЛА",
+    "price_original": 42,
+    "price_glovo": null,
+    "price_bolt": 48
+  },
+  {
+    "id": 81,
+    "name": "ФАНТА ВЕЛИКА",
+    "price_original": 58,
+    "price_glovo": 66,
+    "price_bolt": null
+  },
+  {
+    "id": 82,
+    "name": "ФАНТА СЕРЕДНЯ",
+    "price_original": 53,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 83,
+    "name": "ФАНТА МАЛА",
+    "price_original": 42,
+    "price_glovo": null,
+    "price_bolt": 48
+  },
+  {
+    "id": 84,
+    "name": "СПРАЙТ ВЕЛИКИЙ",
+    "price_original": 58,
+    "price_glovo": 66,
+    "price_bolt": null
+  },
+  {
+    "id": 85,
+    "name": "СПРАЙТ СЕРЕДНІЙ",
+    "price_original": 53,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 86,
+    "name": "СПРАЙТ МАЛИЙ",
+    "price_original": 42,
+    "price_glovo": null,
+    "price_bolt": 48
+  },
+  {
+    "id": 87,
+    "name": "ВОДА НЕГАЗОВАНА ВЕЛИКА",
+    "price_original": 27,
+    "price_glovo": 31,
+    "price_bolt": null
+  },
+  {
+    "id": 88,
+    "name": "ВОДА НЕГАЗОВАНА МАЛА",
+    "price_original": 21,
+    "price_glovo": null,
+    "price_bolt": 24
+  },
+  {
+    "id": 89,
+    "name": "ВОДА ГАЗОВАНА ВЕЛИКА",
+    "price_original": 27,
+    "price_glovo": 31,
+    "price_bolt": null
+  },
+  {
+    "id": 90,
+    "name": "ВОДА ГАЗОВАНА МАЛА",
+    "price_original": 21,
+    "price_glovo": null,
+    "price_bolt": 24
+  },
+  {
+    "id": 91,
+    "name": "СІК «ГАЛІЦІЯ» ЯБЛУЧНО-ГРУШЕВИЙ",
+    "price_original": 37,
+    "price_glovo": 42,
+    "price_bolt": 42
+  },
+  {
+    "id": 92,
+    "name": "СІК «ГАЛІЦІЯ» ЯБЛУЧНИЙ",
+    "price_original": 37,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 93,
+    "name": "МАКШЕЙК ШОКОЛАД",
+    "price_original": 90,
+    "price_glovo": 103,
+    "price_bolt": 103
+  },
+  {
+    "id": 94,
+    "name": "МАКШЕЙК ВАНІЛЬ",
+    "price_original": 90,
+    "price_glovo": 103,
+    "price_bolt": 103
+  },
+  {
+    "id": 95,
+    "name": "МАКШЕЙК ПОЛУНИЦЯ",
+    "price_original": 90,
+    "price_glovo": 103,
+    "price_bolt": 103
+  },
+  {
+    "id": 96,
+    "name": "GRIMACE ШЕЙК",
+    "price_original": 98,
+    "price_glovo": 112,
+    "price_bolt": 112
+  },
+  {
+    "id": 97,
+    "name": "МАКСАНДІ КАРАМЕЛЬ",
+    "price_original": 73,
+    "price_glovo": 83,
+    "price_bolt": 83
+  },
+  {
+    "id": 98,
+    "name": "МАКСАНДІ ШОКОЛАД",
+    "price_original": 73,
+    "price_glovo": 83,
+    "price_bolt": 83
+  },
+  {
+    "id": 99,
+    "name": "МАКСАНДІ ПОЛУНИЦЯ",
+    "price_original": 73,
+    "price_glovo": 83,
+    "price_bolt": 83
+  },
+  {
+    "id": 100,
+    "name": "МАКСАНДІ КАРАМЕЛЬ У ВАФЕЛЬНОМУ СТАКАНЧИКУ",
+    "price_original": 73,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 101,
+    "name": "МАКСАНДІ ШОКОЛАД У ВАФЕЛЬНОМУ СТАКАНЧИКУ",
+    "price_original": 73,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 102,
+    "name": "МАКСАНДІ ПОЛУНИЦЯ У ВАФЕЛЬНОМУ СТАКАНЧИКУ",
+    "price_original": 73,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 103,
+    "name": "МОРОЗИВО РІЖОК",
+    "price_original": 50,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 104,
+    "name": "МАКФЛУРІ КІТ КАТ ШОКОЛАД",
+    "price_original": 89,
+    "price_glovo": 102,
+    "price_bolt": 102
+  },
+  {
+    "id": 105,
+    "name": "МАКФЛУРІ КІТ КАТ КАРАМЕЛЬ",
+    "price_original": 89,
+    "price_glovo": 102,
+    "price_bolt": 102
+  },
+  {
+    "id": 106,
+    "name": "МАКФЛУРІ КІТ КАТ ПОЛУНИЦЯ",
+    "price_original": 89,
+    "price_glovo": 102,
+    "price_bolt": 102
+  },
+  {
+    "id": 107,
+    "name": "МАКПИРІГ ВИШНЕВИЙ",
+    "price_original": 49,
+    "price_glovo": 56,
+    "price_bolt": 56
+  },
+  {
+    "id": 108,
+    "name": "МАКПИРІГ КРЕМ-ЧОРНИЦЯ",
+    "price_original": 59,
+    "price_glovo": 67,
+    "price_bolt": 67
+  },
+  {
+    "id": 109,
+    "name": "КРУАСАН МИГДАЛЕВИЙ",
+    "price_original": 49,
+    "price_glovo": 56,
+    "price_bolt": null
+  },
+  {
+    "id": 110,
+    "name": "КРУАСАН ІЗ КАКАО-КРЕМОМ",
+    "price_original": 49,
+    "price_glovo": 56,
+    "price_bolt": null
+  },
+  {
+    "id": 111,
+    "name": "МАФІН КРЕМ-ВИШНЯ",
+    "price_original": 75,
+    "price_glovo": 86,
+    "price_bolt": 86
+  },
+  {
+    "id": 112,
+    "name": "ДУБАЙСЬКИЙ ШОКОЛАДНИЙ МІНІДОНАТ",
+    "price_original": 39,
+    "price_glovo": 42,
+    "price_bolt": 42
+  },
+  {
+    "id": 113,
+    "name": "ПОЛИВА ШОКОЛАДНА",
+    "price_original": 15,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 114,
+    "name": "ПОЛИВА КАРАМЕЛЬ",
+    "price_original": 15,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 115,
+    "name": "ПОЛИВА ПОЛУНИЧНА",
+    "price_original": 15,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 116,
+    "name": "МЕД",
+    "price_original": 19,
+    "price_glovo": 21,
+    "price_bolt": 21
+  },
+  {
+    "id": 117,
+    "name": "СИРОП \"СМАЖЕНИЙ ЛІСОВИЙ ГОРІХ\"",
+    "price_original": 10,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 118,
+    "name": "СИРОП \"БРАУНІ\"",
+    "price_original": 10,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 119,
+    "name": "СИРОП \"СОЛОНА КАРАМЕЛЬ\"",
+    "price_original": 10,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 120,
+    "name": "СИРОП \"ІМБИРНЕ ПЕЧИВО\"",
+    "price_original": 10,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 121,
+    "name": "СИРОП СМАЖЕНЕ МАРШМЕЛОУ",
+    "price_original": 12,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 122,
+    "name": "СОУС «ХАБАНЕРО»",
+    "price_original": 28,
+    "price_glovo": 32,
+    "price_bolt": 32
+  },
+  {
+    "id": 123,
+    "name": "СОУС ІЗ СИРОМ ДОРБЛЮ",
+    "price_original": 28,
+    "price_glovo": 32,
+    "price_bolt": 32
+  },
+  {
+    "id": 124,
+    "name": "МАЙОНЕЗ",
+    "price_original": 19,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 125,
+    "name": "СОУС «БАРБЕКЮ»",
+    "price_original": 19,
+    "price_glovo": 21,
+    "price_bolt": 21
+  },
+  {
+    "id": 126,
+    "name": "КЕТЧУП",
+    "price_original": 19,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 127,
+    "name": "СОУС «ГІРЧИЧНИЙ»",
+    "price_original": 19,
+    "price_glovo": 21,
+    "price_bolt": 21
+  },
+  {
+    "id": 128,
+    "name": "СОУС «КИСЛО-СОЛОДКИЙ»",
+    "price_original": 19,
+    "price_glovo": 21,
+    "price_bolt": 21
+  },
+  {
+    "id": 129,
+    "name": "СОУС «СИРНИЙ»",
+    "price_original": 19,
+    "price_glovo": 21,
+    "price_bolt": 21
+  },
+  {
+    "id": 130,
+    "name": "СОУС «КАРІ»",
+    "price_original": 19,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 131,
+    "name": "СОУС «ЖУРАВЛИНОВИЙ»",
+    "price_original": 19,
+    "price_glovo": 21,
+    "price_bolt": 21
+  },
+  {
+    "id": 132,
+    "name": "САЛАТНА ЗАПРАВКА «1000 ОСТРОВІВ»",
+    "price_original": 28,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 133,
+    "name": "ОЛИВКОВА ОЛІЯ",
+    "price_original": 28,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 134,
+    "name": "СОУС «СОЛОДКИЙ ЧИЛІ»",
+    "price_original": 28,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 135,
+    "name": "МАКМАФІН З ЯЙЦЕМ І СИРОМ",
+    "price_original": 65,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 136,
+    "name": "МАКМАФІН З ЯЙЦЕМ І БЕКОНОМ",
+    "price_original": 79,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 137,
+    "name": "МАКМАФІН З ЯЙЦЕМ І СВИНИНОЮ",
+    "price_original": 106,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 138,
+    "name": "ПОДВІЙНИЙ МАКМАФІН З ЯЙЦЕМ І СВИНИНОЮ",
+    "price_original": 154,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 139,
+    "name": "ЧІКЕН ФРЕШ МАКМАФІН",
+    "price_original": 106,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 140,
+    "name": "ПОДВІЙНИЙ ЧІКЕН ФРЕШ МАКМАФІН",
+    "price_original": 154,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 141,
+    "name": "ФРЕШ МАКМАФІН",
+    "price_original": 106,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 142,
+    "name": "ПОДВІЙНИЙ ФРЕШ МАКМАФІН",
+    "price_original": 154,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 143,
+    "name": "ТОСТ ІЗ СИРОМ",
+    "price_original": 40,
+    "price_glovo": 46,
+    "price_bolt": 46
+  },
+  {
+    "id": 144,
+    "name": "ТОСТ ІЗ СИРОМ І БЕКОНОМ",
+    "price_original": 55,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 145,
+    "name": "СНІДАНОК РОЛ",
+    "price_original": 135,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 146,
+    "name": "ФРЕШ РОЛ",
+    "price_original": 135,
     "price_glovo": 158,
-    "price_bolt": 158,
-    "price_original": 136
+    "price_bolt": 158
+  },
+  {
+    "id": 147,
+    "name": "ЧІКЕН ФРЕШ РОЛ",
+    "price_original": 135,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 148,
+    "name": "КАРТОПЛЯНИК",
+    "price_original": 40,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 149,
+    "name": "КАША ВІВСЯНА (БЕЗ НАПОВНЮВАЧІВ)",
+    "price_original": 40,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 150,
+    "name": "ТОСТ ІЗ СИРОМ МЕНЮ",
+    "price_original": 105,
+    "price_glovo": 46,
+    "price_bolt": 46
+  },
+  {
+    "id": 151,
+    "name": "ТОСТ ІЗ СИРОМ І БЕКОНОМ МЕНЮ",
+    "price_original": 115,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 152,
+    "name": "МАКМАФІН З ЯЙЦЕМ І СИРОМ МЕНЮ",
+    "price_original": 132,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 153,
+    "name": "МАКМАФІН З ЯЙЦЕМ І БЕКОНОМ МЕНЮ",
+    "price_original": 145,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 154,
+    "name": "МАКМАФІН З ЯЙЦЕМ І СВИНИНОЮ МЕНЮ",
+    "price_original": 172,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 155,
+    "name": "ФРЕШ МАКМАФІН МЕНЮ",
+    "price_original": 172,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 156,
+    "name": "ЧІКЕН ФРЕШ МАКМАФІН МЕНЮ",
+    "price_original": 172,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 157,
+    "name": "ПОДВІЙНИЙ МАКМАФІН З ЯЙЦЕМ І СВИНИНОЮ МЕНЮ",
+    "price_original": 218,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 158,
+    "name": "ПОДВІЙНИЙ ЧІКЕН ФРЕШ МАКМАФІН МЕНЮ",
+    "price_original": 218,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 159,
+    "name": "ПОДВІЙНИЙ ФРЕШ МАКМАФІН МЕНЮ",
+    "price_original": 218,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 160,
+    "name": "ФРЕШ РОЛ МЕНЮ",
+    "price_original": 198,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 161,
+    "name": "ЧІКЕН ФРЕШ РОЛ МЕНЮ",
+    "price_original": 200,
+    "price_glovo": null,
+    "price_bolt": null
+  },
+  {
+    "id": 162,
+    "name": "СНІДАНОК РОЛ МЕНЮ",
+    "price_original": 200,
+    "price_glovo": null,
+    "price_bolt": null
   }
 ]
