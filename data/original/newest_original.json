@@ -350,39 +350,39 @@
     "КАВА ТА ГАРЯЧІ НАПОЇ": [
         {
             "id": 57,
-            "name": "лате імбирне печиво",
-            "price_original": 80,
-            "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/Latte_Ginger_v3:product-header-desktop?wid=829&hei=455&dpr=off"
-        },
-        {
-            "id": 58,
-            "name": "лате смажене маршмелоу",
-            "price_original": 79,
-            "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Winter%20latte%2003%20l:product-header-desktop?wid=829&hei=455&dpr=off"
-        },
-        {
-            "id": 59,
-            "name": "капучино смажене маршмелоу",
-            "price_original": 79,
-            "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Winter%20CAPPUCINO%2003%20l:product-header-desktop?wid=829&hei=455&dpr=off"
-        },
-        {
-            "id": 60,
-            "name": "какао мале",
-            "price_original": 48,
-            "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Cocoa_200ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
-        },
-        {
-            "id": 61,
             "name": "лате велике",
             "price_original": 69,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Latte_295ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         },
         {
-            "id": 62,
+            "id": 58,
             "name": "лате мале",
             "price_original": 48,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Latte_195ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
+        },
+        {
+            "id": 59,
+            "name": "лате імбирне печиво",
+            "price_original": 80,
+            "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/Latte_Ginger_v3:product-header-desktop?wid=829&hei=455&dpr=off"
+        },
+        {
+            "id": 60,
+            "name": "лате смажене маршмелоу",
+            "price_original": 79,
+            "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Winter%20latte%2003%20l:product-header-desktop?wid=829&hei=455&dpr=off"
+        },
+        {
+            "id": 61,
+            "name": "какао велике",
+            "price_original": 69,
+            "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Cocoa_300ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
+        },
+        {
+            "id": 62,
+            "name": "какао мале",
+            "price_original": 48,
+            "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Cocoa_200ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         },
         {
             "id": 63,
@@ -398,69 +398,69 @@
         },
         {
             "id": 65,
+            "name": "капучино смажене маршмелоу",
+            "price_original": 79,
+            "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Winter%20CAPPUCINO%2003%20l:product-header-desktop?wid=829&hei=455&dpr=off"
+        },
+        {
+            "id": 66,
             "name": "флет вайт",
             "price_original": 63,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_FlatWhite_155ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         },
         {
-            "id": 66,
+            "id": 67,
             "name": "американо з молоком велике",
             "price_original": 69,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Americano-Milk_275ml_v2:product-header-desktop?wid=829&hei=453&dpr=off"
         },
         {
-            "id": 67,
+            "id": 68,
             "name": "американо з молоком мале",
             "price_original": 48,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Americano-Milk_175ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         },
         {
-            "id": 68,
+            "id": 69,
             "name": "американо велике",
             "price_original": 63,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Americano_230ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         },
         {
-            "id": 69,
+            "id": 70,
             "name": "американо мале",
             "price_original": 42,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Americano_150ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         },
         {
-            "id": 70,
+            "id": 71,
             "name": "подвійне еспресо",
             "price_original": 42,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Espresso-double_60ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         },
         {
-            "id": 71,
+            "id": 72,
             "name": "еспресо",
             "price_original": 37,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Espresso_40ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         },
         {
-            "id": 72,
+            "id": 73,
             "name": "мокко",
             "price_original": 74,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_MOKKO_295ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         },
         {
-            "id": 73,
+            "id": 74,
             "name": "чай чорний",
             "price_original": 42,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_TEA-Black_300ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         },
         {
-            "id": 74,
+            "id": 75,
             "name": "чай зелений із цитрусовими",
             "price_original": 42,
             "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_TEA-Green_300ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
-        },
-        {
-            "id": 75,
-            "name": "какао велике",
-            "price_original": 69,
-            "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Cocoa_300ml_v2:product-header-desktop?wid=829&hei=455&dpr=off"
         }
     ],
     "ХОЛОДНІ НАПОЇ": [
