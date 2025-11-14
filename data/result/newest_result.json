@@ -133,7 +133,7 @@
       "name": "ЧІКЕН МАКНАГЕТС, 4 ШТ.",
       "price_original": 65,
       "price_glovo": 74,
-      "price_bolt": 74
+      "price_bolt": 159
     },
     {
       "id": 20,
@@ -179,13 +179,13 @@
     },
     {
       "id": 26,
-      "name": "ЧІКЕН БОКС",
+      "name": "СТРІПСИ ЧІКЕН БОКС",
       "price_original": 289,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 332,
+      "price_bolt": 332
     }
   ],
-  "КАРТОПЛЯ, КАША ТА СИР": [
+  "КАРТОПЛЯ ТА СИР": [
     {
       "id": 27,
       "name": "КАРТОПЛЯ ФРІ ВЕЛИКА",
@@ -230,10 +230,10 @@
     },
     {
       "id": 33,
-      "name": "СИР БРІ",
+      "name": "СИР БРІ 3 ШТ",
       "price_original": 105,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 120,
+      "price_bolt": 120
     },
     {
       "id": 34,
@@ -260,10 +260,10 @@
     },
     {
       "id": 37,
-      "name": "МІКС САЛАТ",
+      "name": "МІКС САЛАТ ІЗ ОВОЧАМИ",
       "price_original": 120,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 138,
+      "price_bolt": 138
     },
     {
       "id": 38,
@@ -355,15 +355,15 @@
       "id": 50,
       "name": "ЧІКЕН МАКНАГЕТС 6ШТ МЕНЮ",
       "price_original": 189,
-      "price_glovo": 217,
-      "price_bolt": 217
+      "price_glovo": null,
+      "price_bolt": null
     },
     {
       "id": 51,
       "name": "ЧІКЕН МАКНАГЕТС 9ШТ МЕНЮ",
       "price_original": 229,
-      "price_glovo": 263,
-      "price_bolt": 263
+      "price_glovo": null,
+      "price_bolt": null
     },
     {
       "id": 52,
@@ -399,8 +399,8 @@
       "id": 56,
       "name": "ХЕПІ МІЛ",
       "price_original": 165,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 189,
+      "price_bolt": 189
     }
   ],
   "КАВА ТА ГАРЯЧІ НАПОЇ": [
@@ -544,13 +544,13 @@
       "name": "АПЕЛЬСИНОВИЙ СІК ВЕЛИКИЙ",
       "price_original": 99,
       "price_glovo": 113,
-      "price_bolt": 85
+      "price_bolt": 113
     },
     {
       "id": 77,
-      "name": "АПЕЛЬСИНОВИЙ СІК МАЛЕНЬКИЙ",
+      "name": "АПЕЛЬСИНОВИЙ СІК МАЛИЙ",
       "price_original": 74,
-      "price_glovo": 113,
+      "price_glovo": null,
       "price_bolt": 85
     },
     {
@@ -558,14 +558,14 @@
       "name": "КОКА-КОЛА ВЕЛИКА",
       "price_original": 58,
       "price_glovo": 66,
-      "price_bolt": null
+      "price_bolt": 66
     },
     {
       "id": 79,
       "name": "КОКА-КОЛА СЕРЕДНЯ",
       "price_original": 53,
       "price_glovo": null,
-      "price_bolt": null
+      "price_bolt": 60
     },
     {
       "id": 80,
@@ -579,14 +579,14 @@
       "name": "ФАНТА ВЕЛИКА",
       "price_original": 58,
       "price_glovo": 66,
-      "price_bolt": null
+      "price_bolt": 66
     },
     {
       "id": 82,
       "name": "ФАНТА СЕРЕДНЯ",
       "price_original": 53,
       "price_glovo": null,
-      "price_bolt": null
+      "price_bolt": 60
     },
     {
       "id": 83,
@@ -600,14 +600,14 @@
       "name": "СПРАЙТ ВЕЛИКИЙ",
       "price_original": 58,
       "price_glovo": 66,
-      "price_bolt": null
+      "price_bolt": 66
     },
     {
       "id": 85,
       "name": "СПРАЙТ СЕРЕДНІЙ",
       "price_original": 53,
       "price_glovo": null,
-      "price_bolt": null
+      "price_bolt": 60
     },
     {
       "id": 86,
@@ -621,7 +621,7 @@
       "name": "ВОДА НЕГАЗОВАНА ВЕЛИКА",
       "price_original": 27,
       "price_glovo": 31,
-      "price_bolt": null
+      "price_bolt": 31
     },
     {
       "id": 88,
@@ -635,7 +635,7 @@
       "name": "ВОДА ГАЗОВАНА ВЕЛИКА",
       "price_original": 27,
       "price_glovo": 31,
-      "price_bolt": null
+      "price_bolt": 31
     },
     {
       "id": 90,
@@ -646,14 +646,14 @@
     },
     {
       "id": 91,
-      "name": "СІК «ГАЛІЦІЯ» ЯБЛУЧНО-ГРУШЕВИЙ",
+      "name": "СІК ГАЛІЦІЯ ЯБЛУЧНО-ГРУШЕВИЙ",
       "price_original": 37,
       "price_glovo": 42,
       "price_bolt": 42
     },
     {
       "id": 92,
-      "name": "СІК «ГАЛІЦІЯ» ЯБЛУЧНИЙ",
+      "name": "СІК ГАЛІЦІЯ ЯБЛУЧНИЙ",
       "price_original": 37,
       "price_glovo": null,
       "price_bolt": null
@@ -784,7 +784,7 @@
       "name": "КРУАСАН ІЗ КАКАО-КРЕМОМ",
       "price_original": 49,
       "price_glovo": 56,
-      "price_bolt": null
+      "price_bolt": 56
     },
     {
       "id": 111,
@@ -798,7 +798,7 @@
       "name": "ДУБАЙСЬКИЙ ШОКОЛАДНИЙ МІНІДОНАТ",
       "price_original": 39,
       "price_glovo": 42,
-      "price_bolt": 42
+      "price_bolt": null
     }
   ],
   "ТОПІНГИ ТА СИРОПИ": [
@@ -806,22 +806,22 @@
       "id": 113,
       "name": "ПОЛИВА ШОКОЛАДНА",
       "price_original": 15,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 17,
+      "price_bolt": 17
     },
     {
       "id": 114,
       "name": "ПОЛИВА КАРАМЕЛЬ",
       "price_original": 15,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 17,
+      "price_bolt": 17
     },
     {
       "id": 115,
       "name": "ПОЛИВА ПОЛУНИЧНА",
       "price_original": 15,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 17,
+      "price_bolt": 17
     },
     {
       "id": 116,
@@ -866,10 +866,10 @@
       "price_bolt": null
     }
   ],
-  "CНІДАНКИ": [
+  "СОУСИ": [
     {
       "id": 122,
-      "name": "СОУС «ХАБАНЕРО»",
+      "name": "СОУС ХАБАНЕРО",
       "price_original": 28,
       "price_glovo": 32,
       "price_bolt": 32
@@ -883,63 +883,63 @@
     },
     {
       "id": 124,
-      "name": "МАЙОНЕЗ",
+      "name": "СОУС МАЙОНЕЗ",
       "price_original": 19,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 21,
+      "price_bolt": 21
     },
     {
       "id": 125,
-      "name": "СОУС «БАРБЕКЮ»",
+      "name": "СОУС БАРБЕКЮ",
       "price_original": 19,
       "price_glovo": 21,
       "price_bolt": 21
     },
     {
       "id": 126,
-      "name": "КЕТЧУП",
+      "name": "СОУС КЕТЧУП",
       "price_original": 19,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 21,
+      "price_bolt": 21
     },
     {
       "id": 127,
-      "name": "СОУС «ГІРЧИЧНИЙ»",
+      "name": "СОУС ГІРЧИЧНИЙ",
       "price_original": 19,
       "price_glovo": 21,
       "price_bolt": 21
     },
     {
       "id": 128,
-      "name": "СОУС «КИСЛО-СОЛОДКИЙ»",
+      "name": "СОУС КИСЛО-СОЛОДКИЙ",
       "price_original": 19,
       "price_glovo": 21,
       "price_bolt": 21
     },
     {
       "id": 129,
-      "name": "СОУС «СИРНИЙ»",
+      "name": "СОУС СИРНИЙ",
       "price_original": 19,
       "price_glovo": 21,
       "price_bolt": 21
     },
     {
       "id": 130,
-      "name": "СОУС «КАРІ»",
+      "name": "СОУС КАРІ",
       "price_original": 19,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 21,
+      "price_bolt": 21
     },
     {
       "id": 131,
-      "name": "СОУС «ЖУРАВЛИНОВИЙ»",
+      "name": "СОУС ЖУРАВЛИНОВИЙ",
       "price_original": 19,
       "price_glovo": 21,
       "price_bolt": 21
     },
     {
       "id": 132,
-      "name": "САЛАТНА ЗАПРАВКА «1000 ОСТРОВІВ»",
+      "name": "САЛАТНА ЗАПРАВКА 1000 ОСТРОВІВ",
       "price_original": 28,
       "price_glovo": null,
       "price_bolt": null
@@ -953,7 +953,7 @@
     },
     {
       "id": 134,
-      "name": "СОУС «СОЛОДКИЙ ЧИЛІ»",
+      "name": "СОУС СОЛОДКИЙ ЧИЛІ",
       "price_original": 28,
       "price_glovo": null,
       "price_bolt": null
@@ -1060,10 +1060,10 @@
     },
     {
       "id": 149,
-      "name": "КАША ВІВСЯНА (БЕЗ НАПОВНЮВАЧІВ)",
+      "name": "ВІВСЯНА КАША",
       "price_original": 40,
-      "price_glovo": null,
-      "price_bolt": null
+      "price_glovo": 46,
+      "price_bolt": 46
     }
   ],
   "РАНКОВЕ МЕНЮ": [
@@ -1071,8 +1071,8 @@
       "id": 150,
       "name": "ТОСТ ІЗ СИРОМ МЕНЮ",
       "price_original": 105,
-      "price_glovo": 46,
-      "price_bolt": 46
+      "price_glovo": null,
+      "price_bolt": null
     },
     {
       "id": 151,
