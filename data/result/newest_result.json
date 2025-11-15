@@ -151,7 +151,7 @@
       "name": "ЧІКЕН МАКНАГЕТС, 4 ШТ.",
       "price_original": 65,
       "price_glovo": 74,
-      "price_bolt": 112,
+      "price_bolt": 74,
       "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Nuggets_4pcs_v2:product-header-desktop?wid=829&hei=453&dpr=off"
     },
     {
@@ -1072,16 +1072,16 @@
       "id": 132,
       "name": "САЛАТНА ЗАПРАВКА 1000 ОСТРОВІВ",
       "price_original": 28,
-      "price_glovo": null,
-      "price_bolt": null,
+      "price_glovo": 32,
+      "price_bolt": 32,
       "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_1000_Islands_Sauce:product-header-desktop?wid=829&hei=455&dpr=off"
     },
     {
       "id": 133,
       "name": "ОЛИВКОВА ОЛІЯ",
       "price_original": 28,
-      "price_glovo": null,
-      "price_bolt": null,
+      "price_glovo": 32,
+      "price_bolt": 32,
       "urlToImg": "https://s7d1.scene7.com/is/image/mcdonalds/McD_Olive_Oil:product-header-desktop?wid=829&hei=455&dpr=off"
     },
     {
